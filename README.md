@@ -48,6 +48,7 @@ gamex/
 │   └── styles.css
 ├── media/
 │   ├── cyberpunk.jpg
+│   ├── EChan-preview.png
 │   └── gradient.png
 └── README.md
 ```

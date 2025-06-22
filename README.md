@@ -14,7 +14,6 @@ Game X is a modern, interactive landing page showcasing a sci-fi RPG game experi
 ## 🛠️ Technology Stack
 
 * **HTML5** & **CSS3**
-* **JavaScript**
 * **AOS (Animate On Scroll)** for scrolling animations
 * **Spline 3D Viewer** for interactive 3D animations
 * **SVG** for scalable icons

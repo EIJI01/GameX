@@ -23,7 +23,7 @@ Game X is a modern, interactive landing page showcasing a sci-fi RPG game experi
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/yourusername/gamex.git
+git clone https://github.com/EIJI01/GameX.git
 cd gamex
 ```
 
@@ -36,7 +36,7 @@ cd gamex
 
 Game X incorporates interactive 3D animations powered by **Spline**, enabling highly engaging visual interactions.
 
-* **Spline project URL:** [View in Spline](https://prod.spline.design/6NPXNOsZX2E9sUCS/scene.splinecode)
+* **Spline project URL:** [View in Spline](https://app.spline.design/file/2b34be81-0fa5-4510-83c3-c7b3ae327fe9)
 
 ## 🎯 Project Structure
 
@@ -51,12 +51,5 @@ gamex/
 │   └── gradient.png
 └── README.md
 ```
-
-## 💬 Contact
-
-For questions or collaboration, please reach out to:
-
-* **Discord** | **X (Twitter)** | **YouTube**
-* **Email:** [support@gamex.com](mailto:support@gamex.com)
 
 Enjoy exploring **Game X** and enhance your gaming experience!
